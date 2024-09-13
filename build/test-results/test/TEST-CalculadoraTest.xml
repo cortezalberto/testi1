@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-13T15:01:49" hostname="DESKTOP-N38M7QJ" time="0.04">
+  <properties/>
+  <testcase name="testSumar()" classname="CalculadoraTest" time="0.036"/>
+  <testcase name="testSumar1()" classname="CalculadoraTest" time="0.002"/>
+  <system-out><![CDATA[ Me ejecuto antes de todos los test
+ ANTES DE CADA TEST los test
+El resultado es :9
+ DESPUES  DE CADA TEST los test
+ ANTES DE CADA TEST los test
+El resultado del segundo mÃ©todo es :14
+ DESPUES  DE CADA TEST los test
+ Me ejecuto cuando finalizan  todos los test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
